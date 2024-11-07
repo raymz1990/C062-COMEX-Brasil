@@ -1,0 +1,12 @@
+name: C062-COMEX-Brasil
+title: C062-COMEX-Brasil
+username: raymz
+account: raymz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13196659
+bundleId: 9323553
+url: https://raymz.shinyapps.io/C062-COMEX-Brasil/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

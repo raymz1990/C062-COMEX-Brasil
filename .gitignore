@@ -1,0 +1,9 @@
+# RStudio settings files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files
+C062-COMEX-Brasil/data/archive.zip
+C062-COMEX-Brasil/data/BR_Municipios_2022.zip
