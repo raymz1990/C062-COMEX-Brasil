@@ -32,7 +32,6 @@ Given the dataset's size (over 13 million rows), data was aggregated by year and
 
 - **R Shiny** and **bs4Dash** for the app interface and structure
 - **Highcharter** for rich data visualization
-- **ggplot2**, **sf**, and other R packages for data manipulation and mapping
 - Auxiliary packages for performance optimization and user interface enhancements
 
 
