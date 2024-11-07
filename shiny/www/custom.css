@@ -1,0 +1,9 @@
+/* Adiciona hover branco nos ícones */
+.icon-hover:hover {
+  color: #3d9970 !important;
+}
+
+/* Formatação número box-cards */
+.info-box-number {
+  font-size: 160%;
+}
